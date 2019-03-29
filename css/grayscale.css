@@ -1,11 +1,16 @@
 @import url('https://fonts.googleapis.com/css?family=Pacifico');
 
+
+porta{
+  display: block;
+  width: 100%;
+  height: auto; 
+  vertical-align:middle; 
+}
+
 .pacifico{
   font-family: 'Pacifico', cursive;
 }
-
-
-
 
 #mainNav {
   min-height: 56px;
