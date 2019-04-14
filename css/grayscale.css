@@ -125,8 +125,8 @@ header .overlay{
   display: inline-block;
   width: 70px;
   height: 70px;
-  border: 3px solid #7DC005;
-  color: #7DC005;
+  border: 3px solid #00309D;
+  color: #ffff;
   transform: rotate(45deg);
   margin-bottom: 30px;
   margin-top: 16px;
@@ -138,7 +138,7 @@ header .overlay{
   font-size: 26px;
 }
 .service-box:hover .service-icon{
-  background: #7DC005;
+  background: #00309D;
   color: #ddd;
 }
 .service-title{
@@ -263,7 +263,7 @@ font-weight: 300;
   font-size: 80%;
   padding: 0.75rem;
   color: white;
-  border: 1px solid #7DC005;
+  border: 1px solid #00309D;
 }
 
 #mainNav .navbar-toggler:focus {
@@ -332,7 +332,7 @@ font-weight: 300;
   #mainNav.navbar-shrink .nav-link.active {
     color: white;
     outline: none;
-    border-bottom: 0.25rem solid #7DC005;
+    border-bottom: 0.25rem solid #00309D;
   }
 }
 /*************************************************************************************/
@@ -400,7 +400,7 @@ font-weight: 300;
 }
 
 .btn-primary {
-  background-color: #7DC005;
+  background-color: #00309D;
 }
 
 .btn-primary:hover {
@@ -483,7 +483,7 @@ font-weight: 300;
 
 .contact-section .card {
   border: 0;
-  border-bottom: 0.25rem solid #7DC005;
+  border-bottom: 0.25rem solid #00309D;
 }
 
 .contact-section .card h4 {
@@ -494,7 +494,7 @@ font-weight: 300;
 }
 
 .contact-section .card hr {
-  border-color: #7DC005;
+  border-color: #00309D;
   border-width: 0.25rem;
   width: 3rem;
 }
@@ -546,7 +546,7 @@ a:focus, a:hover {
 }
 
 .text-primary {
-  color: #7DC005 !important;
+  color: #00309D !important;
 }
 
 footer {
