@@ -1,4 +1,6 @@
 @import url('https://fonts.googleapis.com/css?family=Pacifico');
+@import url('https://fonts.googleapis.com/css?family=Arvo');
+@import url('https://fonts.googleapis.com/css?family=Comfortaa');
 
 
 porta{
@@ -14,7 +16,7 @@ porta{
 
 #mainNav {
   min-height: 56px;
-  background-color: rgba(17, 17, 17, 0.103);
+  background-color: #00309D;
 }
 
 .logo {
@@ -313,7 +315,7 @@ font-weight: 300;
     color: white;
   }
   #mainNav.navbar-shrink {
-    background-color: rgba(17, 17, 17, 0.103);;
+    background-color: #00309D;
   }
   #mainNav.navbar-shrink .navbar-brand {
     color: white;
@@ -522,7 +524,7 @@ font-weight: 300;
 }
 
 body {
-  font-family: 'Nunito';
+  font-family: 'Comfortaa', cursive;
   letter-spacing: 0.0625em;
   background-color: #161616;
 
@@ -581,4 +583,11 @@ footer {
   animation-delay: 2s;
 }
 
+.arvo{
+  font-family: 'Arvo', serif;
+}
+
+.conforta{
+  font-family: 'Comfortaa', cursive;
+}
 
