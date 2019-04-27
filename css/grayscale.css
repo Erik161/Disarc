@@ -103,6 +103,7 @@ header .overlay{
   text-transform: uppercase;
   font-size: 30px;
 }
+
 .border{
   width: 160px;
   height: 2px;
@@ -265,18 +266,21 @@ font-weight: 300;
   font-size: 80%;
   padding: 0.75rem;
   color: white;
-  border: 1px solid #00309D;
+  border: 1px solid #0B54FB;
 }
+
 
 #mainNav .navbar-toggler:focus {
   outline: none;
 }
+
 
 #mainNav .navbar-brand {
   color: white;
   font-weight: 700;
   padding: .9rem 0;
 }
+
 
 #mainNav .navbar-nav .nav-item:hover {
   color: fade( rgba(17, 17, 17, 0.103), 80%);
