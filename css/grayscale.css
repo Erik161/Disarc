@@ -3,7 +3,7 @@
 @import url('https://fonts.googleapis.com/css?family=Comfortaa');
 
 
-porta{
+.porta{
   display: block;
   width: 100%;
   height: auto; 
@@ -15,8 +15,8 @@ porta{
 }
 
 #mainNav {
-  min-height: 56px;
-  background-color: #00309D;
+  min-height: 45px;
+  background-color: #005454;
 }
 
 .logo {
@@ -266,7 +266,7 @@ font-weight: 300;
   font-size: 80%;
   padding: 0.75rem;
   color: white;
-  border: 1px solid #0B54FB;
+  border: 1px solid #005454;
 }
 
 
@@ -338,7 +338,7 @@ font-weight: 300;
   #mainNav.navbar-shrink .nav-link.active {
     color: white;
     outline: none;
-    border-bottom: 0.25rem solid #00309D;
+    border-bottom: 0.25rem solid #005454;
   }
 }
 /*************************************************************************************/
