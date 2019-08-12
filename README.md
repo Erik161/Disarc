@@ -6,8 +6,6 @@ proyectos arquitectónicos
 
 ![](servicios.png)
 
-![](presentacion.png)
-
 ![](portafolio.png)
 
 ![](contactanos.png)
